@@ -1,0 +1,43 @@
+body{
+    /* background-color: rgb(208, 235, 235); */
+    
+}
+#head{
+display: flex;
+justify-content: center;
+
+}
+#main{
+    text-align: center;
+    border: 2px solid black;
+    width: 27%;
+    padding: 25px;
+    background-color: whitesmoke;
+    margin: 40px;
+}
+img{
+    width: 140px;
+    border-radius: 50%;
+    height: 140px;
+}
+span{
+    color:rgb(10, 207, 132);
+}
+h2{
+    font-size: 27px;
+}
+.para{
+    margin-top: -17px;
+    font-size: 15px;
+}
+hr{
+    width: 45%;
+    opacity: 0.1;
+}
+
+.footer{
+    background-color:rgb(10, 207, 132);
+    margin: 19px;
+    padding: 10px;
+    border-radius: 4px;
+}
